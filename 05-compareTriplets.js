@@ -1,3 +1,4 @@
+//Hacker Hank - Compare the triplets
 function compareTriplets(a, b) {
    let alice = 0;
    let bob = 0;
